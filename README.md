@@ -14,5 +14,5 @@ VS Code has a built-in runner, and Python is integrated, so no need for a build.
 
 ### Useful links
 [How to import your own modules](https://www.programiz.com/python-programming/modules)  
-[How to do classes](https://www.w3schools.com/python/python_classes.asp)
+[How to do classes](https://www.w3schools.com/python/python_classes.asp)  
 [And then a basic Python tutorial](https://www.w3schools.com/python/)
